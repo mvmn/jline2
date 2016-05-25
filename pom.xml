@@ -19,7 +19,7 @@
         <version>9</version>
     </parent>
 
-    <groupId>jline</groupId>
+    <groupId>x.mvmn.fork.jline</groupId>
     <artifactId>jline</artifactId>
     <name>JLine</name>
     <version>2.15-SNAPSHOT</version>
